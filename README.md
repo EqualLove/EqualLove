@@ -11,5 +11,9 @@
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/-C, C%2B%2B-659AD2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 
-# My SNS
-DISCORD
+# My Another Account
+* DISCORD : `LowSpec#0992`
+* STEAM : [遠藤さくら](https://steamcommunity.com/id/ckck1212/)
+* MAIL : [![Gmail Badge](https://img.shields.io/badge/-ckck1212@naver.com-c14438?style=flat&logo=Gmail&logoColor=green&link=mailto:ckck1212@naver.com)](mailto:ckck1212@naver.com)
+* INSTAGRAM : [nogi.jang](https://www.instagram.com/nogi.jang/)
+* FACEBOOK : [JANG HO JEONG](https://www.facebook.com/hojeong.jang.94/)
