@@ -26,8 +26,8 @@
 <img src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge">
 
 # My Another Account
-* <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"> `LowSpec#0992`
-* <img src="https://img.shields.io/badge/[遠藤さくら](https://steamcommunity.com/id/ckck1212/)-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"> [遠藤さくら](https://steamcommunity.com/id/ckck1212/)
-* MAIL : [<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:ckck1212@naver.com)
-* <img src="https://img.shields.io/badge/https://www.instagram.com/nogi.jang/-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-* <img src="https://img.shields.io/badge/https://www.facebook.com/hojeong.jang.94/-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">
+* <img src="https://img.shields.io/badge/LowSpec#0992-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
+* [<img src="https://img.shields.io/badge/遠藤さくら-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/id/ckck1212/)
+* [<img src="https://img.shields.io/badge/ckck1212@naver.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:ckck1212@naver.com)
+* [<img src="https://img.shields.io/badge/nogi.jang-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nogi.jang/)
+* [<img src="https://img.shields.io/badge/Jang Ho Jeong-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/hojeong.jang.94/)
