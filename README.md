@@ -20,13 +20,14 @@
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge">
+
 # Interested OS
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge">
 
 # My Another Account
 * <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"> `LowSpec#0992`
-* STEAM : [遠藤さくら](https://steamcommunity.com/id/ckck1212/)
-* MAIL : [![Gmail Badge](https://img.shields.io/badge/-ckck1212@naver.com-c14438?style=flat&logo=Gmail&logoColor=green&link=mailto:ckck1212@naver.com)](mailto:ckck1212@naver.com)
-* <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"> [nogi.jang](https://www.instagram.com/nogi.jang/)
-* <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"> [![Face Badge](https://img.shields.io/badge/-ckck1212@naver.com-c14438?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/hojeong.jang.94/)](https://www.facebook.com/hojeong.jang.94/)
+* <img src="https://img.shields.io/badge/[遠藤さくら](https://steamcommunity.com/id/ckck1212/)-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"> [遠藤さくら](https://steamcommunity.com/id/ckck1212/)
+* MAIL : [<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:ckck1212@naver.com)
+* <img src="https://img.shields.io/badge/https://www.instagram.com/nogi.jang/-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+* <img src="https://img.shields.io/badge/https://www.facebook.com/hojeong.jang.94/-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">
