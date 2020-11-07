@@ -1,6 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/EqualLove)
 # Self Intrudution
 ### I'm a newbie programmer , so I need more practice.
+### #Profile image is not me. She is My favorite Actress Rinka Kumada#
 # Career
 | **Type**      | **Date**      | **Contents**                                     | **Organization**                |   |
 |-----------|-----------|----------------------------------------------|-----------------------------|---|
