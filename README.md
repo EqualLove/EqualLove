@@ -1,6 +1,12 @@
 ![Profile views](https://gpvc.arturio.dev/EqualLove)
 # Self Intrudution
 ### I'm a newbie programmer , so I need more practice.
+# Career
+| **Type**      | **Date**      | **Contents**                                     | **Organization**                |   |
+|-----------|-----------|----------------------------------------------|-----------------------------|---|
+| Education | 2014.03 ~ | Department of Computer Science & Engneering  | Jeonbuk National University |   |
+|           |           |                                              |                             |   |
+|           |           |                                              |                             |   |
 # My GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EqualLove&show_icons=true&theme=tokyonight&align=center)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EqualLove&layout=compact)](https://github.com/anuraghazra/github-readme-stats&align=center)
