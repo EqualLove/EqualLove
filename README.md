@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/EqualLove)
-# Self Intrdution
+# Self Introdution
 ### I'm a newbie programmer , so I need more practice.
 ### My Mother Language is Korean but I also can speak English , Japanese a little.
 ### #Profile image is not me. She is My favorite Actress Rinka Kumada#
