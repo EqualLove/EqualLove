@@ -2,6 +2,7 @@
 # Self Introdution
 ### I'm a newbie programmer , so I need more practice.
 ### My Mother Language is Korean but I also can speak English , Japanese a little.
+### I did practice DB from sample DB Schema(olympic) in Cubrid.
 ### #Profile image is not me. She is My favorite Actress Rinka Kumada#
 # Career
 | **Type**      | **Date**      | **Contents**                                     | **Organization**                |   |
