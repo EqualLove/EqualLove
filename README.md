@@ -8,7 +8,7 @@
 | **Type**      | **Date**      | **Contents**                                     | **Organization**                |   |
 |-----------|-----------|----------------------------------------------|-----------------------------|---|
 | Education | 2014.03 ~ | Department of Computer Science & Engneering  | Jeonbuk National University |   |
-|           |           |                                              |                             |   |
+| Work      | 2021.01 ~ | Server Api Developer                         | MirrorRoid Korea            |   |
 |           |           |                                              |                             |   |
 # My GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EqualLove&show_icons=true&theme=tokyonight&align=center)
