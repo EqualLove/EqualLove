@@ -19,10 +19,20 @@
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge">
+
+# Currently Using
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&align=center">
+<img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%23F7DF1E&align=center">
+<img src="https://img.shields.io/badge/jquery%20-%23323330.svg?&style=for-the-badge&logo=jquery&logoColor=%23F7DF1E&align=center">
+<img src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=%23F7DF1E&align=center">
+<img src="https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%23F7DF1E&align=center">
+<img src="https://img.shields.io/badge/vue%20-%23323330.svg?&style=for-the-badge&logo=vue&logoColor=%23F7DF1E&align=center">
+<img src="https://img.shields.io/badge/anguler%20-%23323330.svg?&style=for-the-badge&logo=angular&logoColor=%23F7DF1E&align=center">
+<img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=%23F7DF1E&align=center">
+<img src="https://img.shields.io/badge/mysql%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=%23F7DF1E&align=center">
+<img src="https://img.shields.io/badge/Amazon%20AWS-%23323330.svg?&style=for-the-badge&logo=amazon-aws&logoColor=%23F7DF1E&align=center">
+
 
 # Interested OS
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge">
